@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abdelilah Elhasnaoui
 
 🎯 **Junior Full-Stack Web Developer**  
-📍 Tanger, Morocco  
+📍  Morocco  
 💼 Open to internships, junior roles, and freelance projects
 
 ---
